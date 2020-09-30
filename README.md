@@ -6,6 +6,7 @@
 * исследовательский анализ данных
 * визуализация данных с использованием модуля matplotlib
 
+*** 
 
 This project presents analysis of data from a portuguese bank marketing campaign. The author considers the influence of different parameters on client consent to accept a term deposit. The project aims to demonstrate basic skills of data analysis:
 * data cleaning and pre-processing
